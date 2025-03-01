@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Hi I'm Krish 
 🔹 I’m currently working on:<br>	•	Vaani Sahayak 2.0 – A Hindi Sign Language detection model 🖐️<br>	•	Chalo Jii – A travel agency project 🚀<br>	•	FastAPI-powered websites for seamless user experiences<br><br>🔹 I’m looking to collaborate on:<br>	•	Machine Learning & AI projects 🤖<br>	•	Web development (FastAPI, React, etc.) 🌐<br>	•	Open-source contributions 📂<br><br>🔹 I’m looking for help with:<br>	•	Enhancing sign language recognition models<br>	•	Improving real-time image processing techniques<br><br>🔹 I’m currently learning:<br>	•	Advanced Deep Learning (CNN, Transformers)<br>	•	Backend Development with FastAPI & Databases<br><br>🔹 Ask me about:<br>	•	Machine Learning & AI 🤖<br>	•	Web development (FastAPI, APIs, React)<br>	•	Computer Vision & Image Processing 📸
 
 
