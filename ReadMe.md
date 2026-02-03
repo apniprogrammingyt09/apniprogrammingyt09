@@ -1,16 +1,86 @@
-#  About Me:
-BUILDING CIVIC INDIAN FIRST AI POWERD WEB3 BASED SOCIAL MEDIA PLATFORM FOR CROWD SOURCED CIVIC ISSUE REPORTING SYSTEM <br>BUILDING MAITRT AI FOR MENTAL HEALTH AND WELL BEGIN OF ASTRONAUT  IN INDIAN SPACE CENTRE 2028<br>SIH 2025 WINNER (ISRO)<br>CREATED INDIA'S FIRST DEVINAGRI ALPHABET INDIAN SIGN LANGUAGE DATASET <br>
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20ISRO%22);Krish+Bhagat+@apniprogrammingyt09&center=true&size=24)](https://git.io/typing-svg)
 
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krish_bh_agat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-bhagat-47512a289) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCXGtvnuu_t5fmcmHc6HsDdA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhagatkrish65@gmail.com) 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+</picture>
 
+<div>&nbsp;</div>
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=apniprogrammingyt09&show_icons=true&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=apniprogrammingyt09&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=apniprogrammingyt09&layout=compact&theme=tokyonight)
+<div>
+  <a href="https://github.com/apniprogrammingyt09"><img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github" /></a>&emsp;
+  <a href="https://www.youtube.com/@apniprogrammingyt09"><img src="https://img.shields.io/badge/YouTube-Channel-c32136?logo=youtube" /></a>&emsp;
+  <img src="https://komarev.com/ghpvc/?username=apniprogrammingyt09&label=Profile+Views&color=orange&style=flat" alt="Views" />&emsp;
+</div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/apniprogrammingyt09/apniprogrammingyt09/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/apniprogrammingyt09/apniprogrammingyt09/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/apniprogrammingyt09/apniprogrammingyt09/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
 
-# Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=plastic&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+</div>
 
+# 👨‍🚀 Krish Bhagat | Innovator & Developer
+
+<table>
+<tr><td>
+
+### 🤺 Mission & Vision
+<img align="right" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
+
+* 🏛️ **Civic Tech:** Building India's first AI-powered Web3 social platform for crowdsourced civic issue reporting.
+* 🚀 **Space Tech:** Developing **Maitri AI** for the mental well-being of astronauts at the Indian Space Centre (2028).
+* 🤟 **Accessibility:** Created India's first **Devanagari Alphabet Indian Sign Language Dataset**.
+* 🏆 **Legacy:** **SIH 2025 Winner (ISRO)**.
+
+*"We are making the world a better place by constructing elegant hierarchies for maximum impact and extensibility."*
+
+</tr></td>
+
+<tr><td>
+
+### 🏆 Hall of Fame
+- **Winner:** Smart India Hackathon (SIH) 2025 - **ISRO Problem Statement**.
+- **Pioneer:** First-ever Devanagari ISL Dataset creator.
+- **Next Gen:** Future-proofing astronaut health for Indian Space Missions.
+
+</td></tr>
+
+<tr><td>
+
+### 📊 Engineering Stats
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=apniprogrammingyt09&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=apniprogrammingyt09&theme=light&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apniprogrammingyt09&theme=dark&hide_border=true" />
+</picture>
+
+<img src="https://github-readme-stats.vercel.app/api?username=apniprogrammingyt09&show_icons=true&theme=transparent&hide_border=true" />
+</div>
+</td></tr>
+</table>
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+<div align="center">
+
+### 🛠️ Tech Stack
+![AI/ML](https://img.shields.io/badge/AI/ML-TensorFlow-FF6F00?logo=tensorflow)
+![Web3](https://img.shields.io/badge/Web3-Solidity-363636?logo=solidity)
+![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react)
+![Python](https://img.shields.io/badge/Backend-Python-3776AB?logo=python)
+![Blockchain](https://img.shields.io/badge/Blockchain-Ethereum-3C3C3D?logo=ethereum)
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=py,tensorflow,react,solidity,mongodb,js,ts,git,docker,aws,vscode" />
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
