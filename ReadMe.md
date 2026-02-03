@@ -14,6 +14,7 @@
   <a href="https://github.com/apniprogrammingyt09"><img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github" /></a>&emsp;
   <a href="https://www.youtube.com/@apniprogrammingyt09"><img src="https://img.shields.io/badge/YouTube-Channel-c32136?logo=youtube" /></a>&emsp;
   <img src="https://komarev.com/ghpvc/?username=apniprogrammingyt09&label=Views&color=orange&style=flat" alt="Views" />&emsp;
+  <img src="https://img.shields.io/badge/Wakatime-4,459_hrs-blue?logo=wakatime" />
 </div>
 
 <picture>
@@ -21,8 +22,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/apniprogrammingyt09/apniprogrammingyt09/profile-snake-contrib/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/apniprogrammingyt09/apniprogrammingyt09/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-</div>
 
 
 # 🙋 Hello, I'm Krish Bhagat
