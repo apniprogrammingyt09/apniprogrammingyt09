@@ -17,24 +17,23 @@
   <img src="https://img.shields.io/badge/Wakatime-4,459_hrs-blue?logo=wakatime" alt="Wakatime" />
 </div>
 
+</div>
+
 # 🙋 Hello, I'm Krish Bhagat
-
-<table>
-
-<tr><td>
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" alt="Astronaut" />
+<img align="right" width="110" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" alt="Astronaut" />
 
-<p>&emsp;&emsp;Hi! I'm <strong>Krish Bhagat</strong>. I am a developer dedicated to building impactful technology at the intersection of AI, Web3, and Space Tech.</p>
-<p>&emsp;&emsp;I am currently building India's first AI-powered Web3 social platform for crowdsourced civic issue reporting.</p>
-<p>&emsp;&emsp;<strong>Winner of SIH 2025 (ISRO)</strong> and creator of India's first Devanagari Alphabet Indian Sign Language Dataset.</p>
-<p>&emsp;&emsp;<strong>"We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility."</strong></p>
+Hi! I'm **Krish Bhagat**. I am a developer dedicated to building impactful technology at the intersection of AI, Web3, and Space Tech.
 
-</td></tr>
+I am currently building India's first AI-powered Web3 social platform for crowdsourced civic issue reporting.
 
-<tr><td>
+**Winner of SIH 2025 (ISRO)** and creator of India's first Devanagari Alphabet Indian Sign Language Dataset.
+
+> *"We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility."*
+
+---
 
 ### 🚀 Key Projects & Achievements
 
@@ -43,25 +42,19 @@
 - 🤟 **Accessibility:** Developed the first-ever Devanagari Alphabet Indian Sign Language Dataset.
 - 🏆 **SIH 2025:** Proud Winner of Smart India Hackathon representing ISRO.
 
-</td></tr>
-
-<tr><td>
+---
 
 ### 📊 Engineering Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apniprogrammingyt09&theme=default&hide_border=true" alt="GitHub Streak" />
-  
-  <br><br>
-
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=apniprogrammingyt09&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  &nbsp;
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apniprogrammingyt09&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apniprogrammingyt09&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+<br>
 
-</td></tr>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-fast.vercel.app/api?username=apniprogrammingyt09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=apniprogrammingyt09&layout=compact&theme=tokyonight&hide_border=true&card_width=300" width="300" /></a> |
+| :---: | :---: |
 
-</table>
+---
 
 <div align="center">
 
@@ -74,4 +67,5 @@
 ![AI/ML](https://img.shields.io/badge/AI/ML-TensorFlow-FF6F00?logo=tensorflow&style=flat)
 ![Web3](https://img.shields.io/badge/Web3-Solidity-363636?logo=solidity&style=flat)
 ![SpaceTech](https://img.shields.io/badge/SpaceTech-ISRO-blue?style=flat)
+
 </div>
