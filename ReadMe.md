@@ -17,13 +17,6 @@
   <img src="https://img.shields.io/badge/Wakatime-4,459_hrs-blue?logo=wakatime" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/apniprogrammingyt09/apniprogrammingyt09/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/apniprogrammingyt09/apniprogrammingyt09/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/apniprogrammingyt09/apniprogrammingyt09/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-
 # 🙋 Hello, I'm Krish Bhagat
 
 <table>
@@ -83,10 +76,4 @@
 ![AI/ML](https://img.shields.io/badge/AI/ML-TensorFlow-FF6F00?logo=tensorflow&style=flat)
 ![Web3](https://img.shields.io/badge/Web3-Solidity-363636?logo=solidity&style=flat)
 ![SpaceTech](https://img.shields.io/badge/SpaceTech-ISRO-blue?style=flat)
-</div>
-
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
