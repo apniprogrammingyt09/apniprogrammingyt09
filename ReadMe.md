@@ -50,33 +50,13 @@
 ### 📊 Engineering Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=apniprogrammingyt09&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=apniprogrammingyt09&bg_color=ffffff&color=0864a6&line=0864a6&point=24292f&area=true&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=apniprogrammingyt09&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Commit Activity Graph" />
-  </picture>
-  
-  <br>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=apniprogrammingyt09&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=apniprogrammingyt09&theme=light&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=apniprogrammingyt09&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apniprogrammingyt09&theme=default&hide_border=true" alt="GitHub Streak" />
   
   <br><br>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=apniprogrammingyt09&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=apniprogrammingyt09&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=apniprogrammingyt09&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </picture>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=apniprogrammingyt09&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
   &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=apniprogrammingyt09&layout=compact&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=apniprogrammingyt09&layout=compact&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apniprogrammingyt09&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  </picture>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apniprogrammingyt09&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 </td></tr>
