@@ -55,8 +55,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=apniprogrammingyt09&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=apniprogrammingyt09&theme=dark&hide_border=true" />
 </picture>
-
-<img src="https://github-readme-stats.vercel.app/api?username=apniprogrammingyt09&show_icons=true&theme=transparent&hide_border=true" />
 </div>
 
 </td></tr>
